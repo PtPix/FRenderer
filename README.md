@@ -13,9 +13,6 @@ This repository contains my early explorations into the Vulkan API and Physicall
 - **Asset Loading**: Integrated `tiny_obj_loader` for 3D models and `stb_image` for texture mapping.
 - **Immediate Mode GUI**: Fully integrated ImGui with Vulkan backends for real-time parameter tweaking.
 
-## 🛠️ Build Instructions
-*(Provide basic instructions here, e.g., "Open in Visual Studio 2022 and compile", or provide a CMake script if you write one).*
-
 ## 📷 Screenshots
 
 https://github.com/user-attachments/assets/92bdaecc-5939-47cf-853b-0c09d623defe
